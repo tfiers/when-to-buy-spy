@@ -4,7 +4,7 @@ You've got some money to invest in the next month or so.
 When to buy (when's the dip)?
 
 This script generates a plot like the following:
-![](example output.png)
+![](example_output.png)
 ..and places it on your Desktop.
 
 
