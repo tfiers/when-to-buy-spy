@@ -98,4 +98,5 @@ elif buy_short[-1]:
 else:
     fname_prefix = "don't buy"
 
+mpl.rcParams['savefig.dpi'] *= 2
 fig.savefig(desktop / (fname_prefix + fname_suffix), );
